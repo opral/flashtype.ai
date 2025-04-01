@@ -1,9 +1,9 @@
 > [!NOTE]
 > This repository serves as an issue tracker. The readme is mirrored from, and the source code is at [monorepo/packages/md-app](https://github.com/opral/monorepo/tree/md-app/packages/md-app). Make pull requests to the monorepo.
 
-# Flashtype.ai ⚡️
+# Lix markdown app
 
-This AI markdown app illustrates the benefits of using Lix in the context of document writing.
+This markdown app illustrates the benefits of using Lix in the context of document writing.
 
 ## Development
 
